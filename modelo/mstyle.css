@@ -28,7 +28,7 @@ header{
 	border-radius:17px; 
 	display: flex;	
 	align-items: center;
-	border: 1px solid #dfe1e5;
+	border: 1px solid #becef3;
 	padding-right:10px;
 }
 .pesquisa input{
@@ -54,7 +54,7 @@ header{
 .mic{
 	height: 20px;
 }
-.lupa{
+.search{
 	width: 20px;
 	height: 20px;
 }
